@@ -1,0 +1,15 @@
+vp=DZ_3_vrste.csv 
+pv=DZ_3_vozila.csv
+pp=DZ_3_paketi.csv
+po=DZ_3_osobe.csv
+pm=DZ_3_mjesta.csv
+pu=DZ_3_ulice.csv
+pmu=DZ_3_podrucja.csv
+mt=100
+vi=5
+vs=21.11.2023. 06:00:00
+ms=600
+pr=07:00
+kr=19:00
+gps= 46.305433, 16.336646
+isporuka=2
